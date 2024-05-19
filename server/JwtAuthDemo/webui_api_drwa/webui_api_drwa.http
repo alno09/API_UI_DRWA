@@ -1,0 +1,6 @@
+@webui_api_drwa_HostAddress = http://localhost:5246
+
+GET {{webui_api_drwa_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
